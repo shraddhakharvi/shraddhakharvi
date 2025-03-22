@@ -1,5 +1,3 @@
-![Data Analysis](https://www.analyticsinsight.net/wp-content/uploads/2020/10/Analytics.jpg)
-
 # 📊 Data Analyst Portfolio
 
 ## Hello! 👋 I'm Shraddha S 
