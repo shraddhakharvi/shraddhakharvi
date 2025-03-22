@@ -1,3 +1,5 @@
+![Data Analysis](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
 # 📊 Data Analyst Portfolio
 
 ## Hello! 👋 I'm Shraddha S 
