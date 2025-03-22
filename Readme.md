@@ -1,5 +1,3 @@
-![Data Analysis](https://your-image-url.com/image.png)
-
 # 📊 Data Analyst Portfolio
 
 ## Hello! 👋 I'm Shraddha S 
@@ -33,13 +31,13 @@
 ### Technologies: Python, Pandas, PowerBI.
 ### Insights: Examined how users spend time on social media and identified factors leading to productivity loss.
 
-# 📄 Resume
-## 📜 Download My Resume  https://drive.google.com/file/d/14VoOxh7LzH70DyJlgkJwSAgtfmtASEaZ/view?usp=sharing
-# 📫 Connect with Me
+## 📄 Resume
+### 📜 Download My Resume  https://drive.google.com/file/d/14VoOxh7LzH70DyJlgkJwSAgtfmtASEaZ/view?usp=sharing
+## 📫 Connect with Me
 
-## 📧 Email: shraddhakharvishraddu@gmail.com
+### 📧 Email: shraddhakharvishraddu@gmail.com
 
-## 💼 LinkedIn: https://www.linkedin.com/in/shraddha-kharvi-42588b218/
+### 💼 LinkedIn: https://www.linkedin.com/in/shraddha-kharvi-42588b218/
 
-## 🐍 GitHub: https://github.com/shraddhakharvi
+### 🐍 GitHub: https://github.com/shraddhakharvi
 
