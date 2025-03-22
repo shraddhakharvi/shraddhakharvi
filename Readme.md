@@ -2,8 +2,7 @@
 
 ## Hello! 👋 I'm Shraddha S 
 
-### A passionate Data Analyst skilled in Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and Excel.
-### I love extracting meaningful insights from data and creating visualizations to tell compelling stories.
+### A passionate Data Analyst skilled in Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and Excel. I love extracting meaningful insights from data and creating visualizations to tell compelling stories.
 
 ## 🔍 What You’ll Find Here
 
