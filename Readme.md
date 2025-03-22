@@ -39,5 +39,5 @@
 
 ## 💼 LinkedIn: https://www.linkedin.com/in/shraddha-kharvi-42588b218/
 
-## 🐍 GitHub: 
+## 🐍 GitHub: https://github.com/shraddhakharvi
 
