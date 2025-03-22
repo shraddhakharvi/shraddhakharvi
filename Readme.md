@@ -1,3 +1,5 @@
+![Data Analysis](https://your-image-url.com/image.png)
+
 # 📊 Data Analyst Portfolio
 
 ## Hello! 👋 I'm Shraddha S 
